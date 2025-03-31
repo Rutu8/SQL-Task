@@ -1,2 +1,2 @@
 # SQL Task
- SQL problems solved
+Solved SQL problems
